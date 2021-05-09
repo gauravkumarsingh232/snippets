@@ -1,0 +1,2 @@
+# snippets
+Useful Java snippets
