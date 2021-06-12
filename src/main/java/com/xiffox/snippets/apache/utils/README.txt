@@ -1,12 +1,12 @@
-IOUtils
-StringUtils
-DateUtils
 ArrayUtils
-CollectionUtils
-FileUtils
-NumberUtils
 BooleanUtils
+CollectionUtils
+DateUtils
+FileUtils
+IOUtils
+NumberUtils
 ObjectUtils
+StringUtils
 
 
 -----------------------------
